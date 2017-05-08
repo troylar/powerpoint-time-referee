@@ -13,7 +13,7 @@ Typically you should know how much time you want to spend per slide--and with `P
 ## QuickStart
 This is one of the easiest tools you'll ever use.
 
-BACKUP YOUR POWERPOINT FILE BEFORE 
+**THIS WILL UPDATE YOUR EXISTING POWERPOINT IN PLACE. PLEASE BACKUP YOUR POWERPOINT FILE BEFORE RUNNING THIS TOOL.** 
 
 1. All you need to do is open your presentation and in the notes section for each slide, add a line that reads `##<number of seconds>`. In the screenshot below, we want to spend two minutes on `Section 2`, so the note reads `##120`. 
 
